@@ -1,0 +1,10 @@
+{
+    "program": "suggestion_box.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpEfth7nCfTPqbm7DTCELDmD9gVGbRbiMd26JQ1htvhagf",
+        "address": "aleo16qlhlqy6xv2m2r6cuvl5grrw0mvruc6kcufmgasn7e7csxfj4y9s8dz3pu"
+    },
+    "license": "MIT"
+}
